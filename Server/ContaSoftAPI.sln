@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaSoftAPI", "ContaSoftAPI\ContaSoftAPI.csproj", "{4CA7D43A-B092-4128-A791-C2083395B348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA7D43A-B092-4128-A791-C2083395B348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA7D43A-B092-4128-A791-C2083395B348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA7D43A-B092-4128-A791-C2083395B348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA7D43A-B092-4128-A791-C2083395B348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9D80CC-C403-40D7-8E53-A0BC164D7A1D}
+	EndGlobalSection
+EndGlobal
