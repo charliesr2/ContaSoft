@@ -2,3 +2,5 @@ Cliente/node_modules/
 Cliente/typings/
 Server/Packages/
 Server/.vs/
+Server/ContaSoftApi/obj/
+Server/ContaSoftApi/bin/
